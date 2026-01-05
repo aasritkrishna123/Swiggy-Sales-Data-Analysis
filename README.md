@@ -114,3 +114,9 @@ The dataset spans **multiple months** and contains **large-scale transactional d
 - Business Insight Generation  
 
 ---
+
+## 📸 Dashboard Preview
+
+![Swiggy Analysis Dashboard](https://github.com/aasritkrishna123/Swiggy-Sales-Data-Analysis/blob/main/Screenshot%202026-01-03%20145151.png)
+
+---
